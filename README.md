@@ -2,4 +2,10 @@ Remote sensing image captioning aims to describe the crucial objects from remote
 performance improvements of +14.15\% CIDEr score on NWPU datasets compared to existing approaches.
 
 
+First, refer to the [MLAT](https://github.com/Chen-Yang-Liu/MLAT) to generate the required data in the data\UCM_images1.
+
+Then, python train_HCNet_UCM.py, generate the weights in the best_UCM_weights.
+
+Finally, python eval_HCNet_UCM.py.
+
 This code is based on the [MLAT](https://github.com/Chen-Yang-Liu/MLAT) and [Clip](https://github.com/openai/CLIP).
