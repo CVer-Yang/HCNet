@@ -2,4 +2,4 @@ Remote sensing image captioning aims to describe the crucial objects from remote
 performance improvements of +14.15\% CIDEr score on NWPU datasets compared to existing approaches.
 
 
-欢迎查看我的项目！[点击这里](https://github.com/CVer-Yang/HCNet) 查看更多详情。
+This code is based on the [MLAT](https://github.com/Chen-Yang-Liu/MLAT) and [Clip](https://github.com/openai/CLIP).
